@@ -1,16 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
     background-color: black;
     color: white;
+    font-family: 'Roboto', sans-serif;
 }
-h1 {
+#header {
     font-size: 80px;
     color: red;
+    text-align: center;
 }
 P{
-    font-size: 24;
+    font-size: medium;
+    text-align: justify;
 }
 img{
-    width: 400px;
+    width: 200px;
     height: 200px;
-    margin: 20px;
+
 }
