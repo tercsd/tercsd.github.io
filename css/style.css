@@ -1,6 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+}
 h1 {
+    font-size: 80px;
     color: red;
 }
 P{
     font-size: 24;
+}
+img{
+    width: 400px;
+    height: 200px;
+    margin: 20px;
 }
