@@ -10,9 +10,15 @@ body {
     color: red;
     text-align: center;
 }
-P{
+.content{
     font-size: medium;
     text-align: justify;
+}
+    .bold{
+    font-weight: bold;
+}
+.img-div{
+    
 }
 img{
     width: 200px;
